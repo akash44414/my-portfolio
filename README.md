@@ -1,8 +1,8 @@
 # my-portfolio
-i create a my portfolio by using html and css
+i created  my portfolio by using html and css. i learn a lot from this project..
 # name
-akash srivastava
+Akash Srivastava
 # college
-Axis institute of higher education.
+Axis institute of higher education (AIHE).
 
 
